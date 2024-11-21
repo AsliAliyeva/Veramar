@@ -6,6 +6,8 @@ export default {
   ],
   theme: {
     screens: {
+      'mini':'150px',
+      
       'mob': '300px',
       // => @media (min-width: 300px) { ... },
 

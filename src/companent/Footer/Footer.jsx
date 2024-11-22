@@ -47,7 +47,7 @@ function Footer() {
         </div>
 
       </div>
-      <div className='font-semibold flex justify-center pb-[15px]'>
+      <div className='font-semibold flex justify-center items-center pb-[15px] mini:text-[12px] tablet:text-[18px]'>
         ©2024 Veramar. Todos los derechos reservados.
       </div>
     </div>

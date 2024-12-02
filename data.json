@@ -155,29 +155,298 @@
             {
                 "id": 10,
                 "url": "https://veramar.gt/wp-content/uploads/2024/10/image_10.webp",
-                "name": "Abigail",
+                "name": "Olivia",
                 "price": 709.00,
                 "bottle": 13
             },
             {
                 "id": 11,
                 "url": "https://veramar.gt/wp-content/uploads/2024/10/image_11.webp",
-                "name": "Amelia",
+                "name": "Isabella",
                 "price": 659.00,
                 "bottle": 13
             },
             {
                 "id": 12,
                 "url": "https://veramar.gt/wp-content/uploads/2024/10/image_12.webp",
-                "name": "Evelyn",
+                "name": "Chloe",
+                "price": 639.00,
+                "bottle": 12
+            },
+            {
+                "id": 13,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_1.webp",
+                "name": "Lily",
+                "price": 719.00,
+                "bottle": 9
+            },
+            {
+                "id": 14,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_2.webp",
+                "name": "Charlotte",
+                "price": 719.00,
+                "bottle": 14
+            },
+            {
+                "id": 15,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_3.webp",
+                "name": "Harper",
+                "price": 709.00,
+                "bottle": 9
+            },
+            {
+                "id": 16,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_4.webp",
+                "name": "Zoe",
+                "price": 679.00,
+                "bottle": 9
+            },
+            {
+                "id": 17,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_5.webp",
+                "name": "Sophie",
+                "price": 679.00,
+                "bottle": 10
+            },
+            {
+                "id": 18,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_6.webp",
+                "name": "Ava",
+                "price": 689.00,
+                "bottle": 9
+            },
+            {
+                "id": 19,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_7.webp",
+                "name": "Layla",
+                "price": 709.00,
+                "bottle": 12
+            },
+            {
+                "id": 20,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_8.webp",
+                "name": "Amelia",
+                "price": 649.00,
+                "bottle": 10
+            },
+            {
+                "id": 21,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_9.webp",
+                "name": "Nora",
+                "price": 719.00,
+                "bottle": 11
+            },
+            {
+                "id": 22,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_10.webp",
+                "name": "Emily",
+                "price": 709.00,
+                "bottle": 13
+            },
+            {
+                "id": 23,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_11.webp",
+                "name": "Stella",
+                "price": 659.00,
+                "bottle": 13
+            },
+            {
+                "id": 24,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/image_12.webp",
+                "name": "Aria",
                 "price": 639.00,
                 "bottle": 12
             }
         ],
-        "UnaPieza":[
-            {}
+        "UnaPieza": [
+            {
+                "id": 1,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Bianca_-1024x1536.webp",
+                "name": "Emma",
+                "price": 782.49,
+                "bottle": 14
+            },
+            {
+                "id": 2,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Debora_-1024x1536.webp",
+                "name": "Sophia",
+                "price": 671.09,
+                "bottle": 12
+            },
+            {
+                "id": 3,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Ada-1024x1536.webp",
+                "name": "Olivia",
+                "price": 704.05,
+                "bottle": 12
+            },
+            {
+                "id": 4,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Mariana-Frente-1024x1536.webp",
+                "name": "Chloe",
+                "price": 795.39,
+                "bottle": 14
+            },
+            {
+                "id": 5,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Emperatriz-1024x1536.webp",
+                "name": "Mia",
+                "price": 810.67,
+                "bottle": 12
+            },
+            {
+                "id": 6,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Versalles-1026x1536.webp",
+                "name": "Ava",
+                "price": 720.9,
+                "bottle": 12
+            },
+            {
+                "id": 7,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Noa-1024x1536.webp",
+                "name": "Ella",
+                "price": 823.44,
+                "bottle": 12
+            }
+        ],
+        "Salidas":[
+            {
+                "id": 1,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/MONACO_3-1024x1536.webp",
+                "name": "Monaco",
+                "price": 699.00
+            },
+            {
+                "id": 2,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Cartagena_-1024x1536.webp",
+                "name": "Cartagena",
+                "price": 599.00
+            },
+            {
+                "id": 3,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Rio-frente-1024x1536.webp",
+                "name": "Rio",
+                "price": 599.00
+            },
+            {
+                "id": 4,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Maldivas_-1024x1536.webp",
+                "name": "Maldivas",
+                "price": 250.00
+            },
+            {
+                "id": 5,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Hawaii_-1024x1536.webp",
+                "name": "Hawaii",
+                "price": 399.00
+            },
+            {
+                "id": 6,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/MONACO_3-1024x1536.webp",
+                "name": "Monaco",
+                "price": 699.00
+            },
+            {
+                "id": 7,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Cartagena_-1024x1536.webp",
+                "name": "Cartagena",
+                "price": 599.00
+            },
+            {
+                "id": 8,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Rio-frente-1024x1536.webp",
+                "name": "Rio",
+                "price": 599.00
+            },
+            {
+                "id": 9,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Maldivas_-1024x1536.webp",
+                "name": "Maldivas",
+                "price": 250.00
+            },
+            {
+                "id": 10,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Hawaii_-1024x1536.webp",
+                "name": "Hawaii",
+                "price": 399.00
+            } 
+        ],
+        "Lentes":[
+            {
+                "id": 1,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Cate-eye-blanco-1104x1536.webp",
+                "name": "Cat Eye",
+                "price":200.00
+            },
+            {
+                "id": 2,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Lentes-Chunky-1024x1536.webp",
+                "name": "Icaro",
+                "price":250.00 
+            },
+            {
+                "id": 3,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Prada-1024x1536.webp",
+                "name": "Eclipse",
+                "price":300.00
+            },
+            {
+                "id": 4,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Cate-eye-blanco-1104x1536.webp",
+                "name": "Cat Eye",
+                "price":200.00
+            },
+            {
+                "id": 5,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Lentes-Chunky-1024x1536.webp",
+                "name": "Icaro",
+                "price":250.00 
+            },
+            {
+                "id": 6,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Prada-1024x1536.webp",
+                "name": "Eclipse",
+                "price":300.00
+            }
+        ],
+        "Bolsas":[
+            {
+                "id": 1,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Mochila-mapa1-1024x1536.webp",
+                "name": "Mochila Mapa",
+                "price":125.00
+            },
+            {
+                "id": 2,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Toteg-Bag-pequena_-1024x1536.webp",
+                "name": "Tote Bag Pequena",
+                "price": 150.00
+            },
+            {
+                "id": 3,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Toteg-Bag-yoga-1024x1536.webp",
+                "name": "Tote Bag Yoga",
+                "price":175.00
+            },
+            {
+                "id": 4,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Mochila-mapa1-1024x1536.webp",
+                "name": "Mochila Mapa",
+                "price":125.00
+            },
+            {
+                "id": 5,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Toteg-Bag-pequena_-1024x1536.webp",
+                "name": "Tote Bag Pequena",
+                "price": 150.00
+            },
+            {
+                "id": 6,
+                "url": "https://veramar.gt/wp-content/uploads/2024/10/Toteg-Bag-yoga-1024x1536.webp",
+                "name": "Tote Bag Yoga",
+                "price": 175.00
+            }
         ]
-
     }
 
 }]
